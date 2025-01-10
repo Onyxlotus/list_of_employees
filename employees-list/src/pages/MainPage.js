@@ -7,7 +7,7 @@ import Pagination from "../components/Pagination";
 
 function MainPages() {
 
-    const [currentPage, setCurrentPage] = useState(2);
+    const [currentPage, setCurrentPage] = useState(1);
     const [postPerPage, setPostPerPage] = useState(1);
 
     const lastPostIndex = currentPage * postPerPage;
@@ -18,7 +18,7 @@ function MainPages() {
         <>
             <Header />
             <WorkersList mansList={currentPost} />
-            <Pagination totalPosts={MansList.length} postsPerPage={postPerPage} />         
+            <Pagination totalPost={MansList.length} postsPerPage={postPerPage} setCurrentPage={setCurrentPage} />         
         </>
 
      );

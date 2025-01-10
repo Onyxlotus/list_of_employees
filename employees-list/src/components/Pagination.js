@@ -1,4 +1,4 @@
-const Pagination = ({totalPost, postsPerPage}) => {
+const Pagination = ({totalPost, postsPerPage, setCurrentPage}) => {
 
     let pages = [];
 
@@ -10,7 +10,7 @@ const Pagination = ({totalPost, postsPerPage}) => {
         <div>
             {
                 pages.map((page, index) => {
-                    return <button key={index}>{page}</button>
+                    return <button key={index} onClick={() => {setCurrentPage(page)}}>{page}</button>
                 })
             }
         </div>
