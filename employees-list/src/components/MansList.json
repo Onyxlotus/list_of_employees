@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "firstName": "Иван",
         "lastName": "Иванов",
         "middleName": "Иванович",
@@ -8,10 +8,10 @@
         "department": "Бухгалтерия",
         "post": "Бухгалтер",
         "salary": 65000,
-        "photo": ""
+        "photo": "https://cdn.pixabay.com/photo/2023/02/08/06/33/fashion-7775827_960_720.jpg"
     },
     {
-        "id": 2,
+        "id": 1,
         "firstName": "Петр",
         "lastName": "Петров",
         "middleName": "Петрович",
@@ -22,7 +22,7 @@
         "photo": ""
     },
     {
-        "id": 3,
+        "id": 2,
         "firstName": "Семен",
         "lastName": "Семенов",
         "middleName": "Семенович",
@@ -30,6 +30,116 @@
         "department": "Бухгалтерия",
         "post": "Бухгалтер",
         "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2018/11/08/23/52/man-3803551_960_720.jpg"
+    },
+    {
+        "id": 3,
+        "firstName": "Константин",
+        "lastName": "Константинов",
+        "middleName": "Констрантинович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "IT-отдел",
+        "post": "Разработчик",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2024/07/30/12/36/man-8932177_960_720.png"
+    },
+    {
+        "id": 4,
+        "firstName": "Иван",
+        "lastName": "Семенов",
+        "middleName": "",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "IT-отдел",
+        "post": "Разработчик",
+        "salary": 65000,
         "photo": ""
+    },
+    {
+        "id": 5,
+        "firstName": "Марат",
+        "lastName": "Маратов",
+        "middleName": "Маратович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "IT-отдел",
+        "post": "Разработчик",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_960_720.jpg"
+    },
+    {
+        "id": 6,
+        "firstName": "Петр",
+        "lastName": "Кошкин",
+        "middleName": "Иванович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Отделение кадров",
+        "post": "Специалист по кадрам",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2016/06/20/04/30/asian-man-1468032_960_720.jpg"
+    },
+    {
+        "id": 7,
+        "firstName": "Кирилл",
+        "lastName": "Семенов",
+        "middleName": "Павлович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Отделение кадров",
+        "post": "Специалист по кадрам",
+        "salary": 65000,
+        "photo": ""
+    },
+    {
+        "id": 8,
+        "firstName": "Павел",
+        "lastName": "Александров",
+        "middleName": "Александрович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Отделение кадров",
+        "post": "Специалист по кадрам",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2016/11/29/04/54/photographer-1867417_960_720.jpg"
+    },
+    {
+        "id": 9,
+        "firstName": "Богдан",
+        "lastName": "Никифоров",
+        "middleName": "Федорович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Бухгалтерия",
+        "post": "Бухгалтер",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg"
+    },
+    {
+        "id": 10,
+        "firstName": "Иван",
+        "lastName": "Крузенштерн",
+        "middleName": "Федорович",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Бухгалтерия",
+        "post": "Бухгалтер",
+        "salary": 65000,
+        "photo": ""
+    },
+    {
+        "id": 11,
+        "firstName": "Мартин",
+        "lastName": "Клиренц",
+        "middleName": "",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Бухгалтерия",
+        "post": "Бухгалтер",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2017/08/01/01/33/beanie-2562646_960_720.jpg"
+    },
+    {
+        "id": 12,
+        "firstName": "Анна",
+        "lastName": "Клейстер",
+        "middleName": "Семеновна",
+        "birthDate": "1992-11-13T08:41:04.172Z",
+        "department": "Управление",
+        "post": "Генеральный директор",
+        "salary": 65000,
+        "photo": "https://cdn.pixabay.com/photo/2014/07/31/22/50/photographer-407068_960_720.jpg"
     }
 ]
